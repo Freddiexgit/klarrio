@@ -1,0 +1,40 @@
+
+
+# Intellij IDEA
+
+*.log
+
+*.iml
+
+*.ipr
+
+*.iws
+
+.idea*
+.*
+_SUC*
+
+
+# Mac
+
+.DS_Store
+
+
+
+# Other?
+
+.history
+
+.scala_dependencies
+
+.cache
+
+.cache-main
+
+
+
+# General
+
+*.class
+
+
